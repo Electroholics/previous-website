@@ -1,2 +1,2 @@
-# Electroholics.github.io
-Our community webpage
+Our Community Website for Electroholics
+========================================
