@@ -448,3 +448,11 @@ footer .footer-below {
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
+
+.fadeIn { 
+    opacity: 0.5;
+}
+.fadeIn.ng-hide-remove {
+    -webkit-animation-name: fadeIn; 
+    animation-name: fadeIn;
+}
