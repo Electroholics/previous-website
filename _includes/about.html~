@@ -8,19 +8,31 @@
             <br>
             <br>
             <br>
-                    <h2>Links</h2>
+                    <h2>Sessions</h2>
                     <br>
-            
-            <p align="center">
-           
-	   
-            <a style="color:white" href="http://www.embedds.com/">Embedds</a><br>
+				   </div>
+            <div class="row">
+			<div class="col-md-6 col-md-offset-5">
+			<h3> Upcoming Sessions: </h3>
+			</div>
+			<div class="col-md-6 col-md-offset-5">
+			<font size ="4">Event: TinkerEve[8]</font><br>
+			<font size ="4">Topic: Introduction To Communication Protocols</font><br>
+			<font size ="4">By: Radhika Ghosal And Tushar Kataria</font><br>
+			<font size ="4">Date: 10 Feb, 2016 </font><br>
+			<font size ="4">Venue: C02 </font><br>
+			<a style="color:white" href="http://www.kharghoshal.xyz/communication-protocols/"><font size ="4">Blog Link</font></a><br />
+	
+			
+			</div>
+			</div>
+            <!--<a style="color:white" href="http://www.embedds.com/">Embedds</a><br>
             <a style="color:white" href="http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/">Cornell ECE4760</a><br>
             <a style="color:white" href="http://www.embedds.com/">Engineers Garage</a><br>
             <a style="color:white" href="http://www.instructables.com">Instructables</a><br>
-            <a style="color:white" href="http://maxembedded.com/">MaxEmbedded</a><br>
+            <a style="color:white" href="http://maxembedded.com/">MaxEmbedded</a><br> 
 	    <a style="color:white" href="https://github.com/Electroholics/Docs/blob/master/Club%20Members">Club Members</a><br>
-	    <a style="color:white" href="https://github.com/Electroholics/Docs">Sessions @ Electroholics</a><br>
+	    <p><a style="color:white" href="https://github.com/Electroholics/Docs">Sessions @ Electroholics</a><br></p> -->
 	   
 	
        
@@ -29,7 +41,7 @@
             <br>
             <br>
             
-                </div>
+             
             </div>
 		
 
@@ -42,6 +54,9 @@
 	<font size ="4">TinkerEve[2]: 3D Printing</font><br />
 	<a style="color:white" href="https://github.com/Electroholics/Docs/blob/master/Slides/Session-3%20%5B16-09-2015%5D.pdf"><font size ="4">TinkerEve[3]: PCB Design</font></a><br />
 	<font size ="4">TinkerEve[4]: Discussion for Projects</font><br />
+	<a style="color:white" href="https://github.com/Electroholics/Docs/blob/master/Slides/Introduction%20to%20FPGA.pdf"><font size ="4">TinkerEve[5]: Introduction to FPGAs</font></a><br />
+	<font size ="4">TinkerEve[6]: System level PCB designing</font><br />
+	<a style="color:white" href=""><font size ="4">TinkerEve[7]: Basics of R, L, C circuits</font></a><br />
 	</p>
 	</div>
 	<div class="col-md-3">
